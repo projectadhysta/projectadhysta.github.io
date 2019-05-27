@@ -1,0 +1,57 @@
+---
+layout: blog
+title: Blog Spesialis Lapangan Olahraga
+photos: /assets/images/8-lapangan-tenis-1.jpg
+---
+<section class="header3 cid-rrbxPUbgva mbr-parallax-background" id="header3-z">
+    <div class="mbr-overlay" style="opacity: 0.8; background-color: rgb(35, 35, 35);">
+    </div>
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-figure" style="width: 100%;">
+                <img src="/assets/images/8-lapangan-tenis-1.jpg" alt="spesialis lapangan tenis">
+            </div>
+            <div class="media-content">
+                <h1 class="mbr-section-title mbr-white pb-3 mbr-fonts-style display-1">
+                    Blog</h1>
+                <div class="mbr-section-text mbr-white pb-3 ">
+                    <p class="mbr-text mbr-fonts-style display-5">Kami selalu memberikan update informasi terkait dengan lapangan dan infomasi seputar olahraga lainnya.</p>
+                </div>
+                <div class="mbr-section-btn">
+                    <a class="btn btn-primary display-4" href="tel:{{ site.telephone }}">Telepon</a>
+                    <a class="btn btn-white-outline display-4" href="{{ site.whatsapp-api }}">Whatsapp</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="features18 popup-btn-cards cid-rrbzsCwlp7" id="features18-11">
+    <div class="container">
+        <div class="row-first row justify-content-center m-0">
+           {% for post in site.posts %} 
+            <div class="card p-3 col-12 col-md-6">
+                <div class="card-wrapper ">
+                    <div class="card-img">
+                        <div class="mbr-overlay"></div>
+                        <div class="mbr-section-btn text-center">
+                            <a href="{{ post.url }}" class="btn btn-primary display-4">Read More</a>
+                        </div>
+                        <img src="{{ post.images }}" alt="{{ post.images-alt }}">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title mbr-fonts-style display-8">
+                            {{ post.title }}
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style align-left display-7">
+                           <i>Ditulis oleh</i> <b>{{ post.penulis }}</b> <i>pada tanggal</i> <b>{{ post.date | date: "%d %B %Y" }}</b>
+                        </p>
+                        <p class="mbr-text mbr-fonts-style align-left display-7">
+                            {{ post.deskripsi }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>

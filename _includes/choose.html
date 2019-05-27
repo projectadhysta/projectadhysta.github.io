@@ -1,0 +1,35 @@
+<section class="counters4 counters cid-rr5z4veAHc" id="counters4-6">
+    <div class="container pt-4 mt-2">
+        <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">Kenapa harus memilih kami</h2>
+        <h3 class="mbr-section-subtitle pb-5 align-center mbr-fonts-style display-5">
+            Beberapa alasan yang diperoleh dari klien kami terdahulu yang dapat menjawab pertanyaan, kenapa Anda harus memilih kami
+        </h3>
+        <div class="media-container-row">
+            <div class="media-block m-auto" style="width: 49%;">
+                <div class="mbr-figure">
+                    <img src="{{ site.choose-img }}" alt="{{ item.choose-alt }}" title="{{ item.choose-title }}">
+                </div>
+            </div>
+            <div class="cards-block">
+                <div class="cards-container">
+                    {% for item in site.data-choose %}
+                    <div class="card px-3 align-left col-12">
+                        <div class="panel-item p-4 d-flex align-items-start">
+                            <div class="card-img pr-3">
+                                <h3 class="img-text d-flex align-items-center justify-content-center">
+                                    {{ item.nomor }}
+                                </h3>
+                            </div>
+                            <div class="card-text">
+                                <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">{{ item.karena }}</h4>
+                                <p class="mbr-content-text mbr-fonts-style display-7">
+                                    {{ item.alasan }}</p>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

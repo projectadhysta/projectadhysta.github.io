@@ -1,0 +1,37 @@
+<section class="header14 cid-rr5ps9LL7o mbr-parallax-background" id="header14-3">
+    <div class="mbr-overlay" style="opacity: 0.1; background-color: rgb(35, 35, 35);">
+    </div>
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-figure" style="width: 100%;">
+                <script type="text/javascript">
+                function actualNextSibling(el) { // needed to smooth out default firefox/IE behavior
+                    do { el = el.nextSibling } while (el && el.nodeType !== 1);
+                    return el;
+                }
+                </script>
+                <div onclick="actualNextSibling(this).style.display='block'; this.style.display='none'">
+                    <img src="{{ site.call-img }}" alt="{{ site.call-alt }}" title="{{ site.call-title }}" style="cursor:pointer" />
+                </div>
+                <div style="display: none">
+                    {{ site.call-youtube }}
+                </div>
+            </div>
+            <div class="media-content">
+                <h3 class="mbr-section-subtitle align-left  mbr-light pb-3 mbr-white mbr-fonts-style display-5">{{ site.call-text }}</h3>
+                <div class="mbr-section-text  pb-3">
+                </div>
+                <div class="media-container-column" data-form-type="formoid">
+                    <div class="dragArea row form-inline">
+                        <div class="col-auto buttons-wrap">
+                            <a class="btn btn-primary display-4" href="tel:{{ site.telephone }}">Telepon</a>
+                        </div>
+                        <div class="col-auto buttons-wrap">
+                            <a class="btn btn-primary display-4" href="{{ site.whatsapp-api }}">Whatsapp</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

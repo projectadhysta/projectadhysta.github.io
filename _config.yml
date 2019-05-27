@@ -1,0 +1,84 @@
+creator: dennyrwa
+lang: id
+locale: id_ID
+themecolor: 9bd9e8
+title: Adhyasta
+company: Adhyasta
+description: Hubungi / WA ke 0813-3560-2222 dan dapatkan informasi dari kami spesialis lapangan tenis
+keywords: spesialis lapangan tenis, kontraktor lapangan tenis, ahli lapangan tenis
+call-youtube: <iframe width="560" height="315" src="https://www.youtube.com/embed/hL6vkiAVJdk?rel=0&amp;controls=0&amp;showinfo=0&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+call-img: /assets/images/home-mbr-736x460.jpg
+call-alt: 
+call-title: 
+call-text: Hubungi / WA ke 0813-3560-2222 dan dapatkan informasi dari kami spesialis lapangan tenis
+choose-img: /assets/images/background6.jpg
+choose-alt: Kompak
+choose-title: Kompak
+choose-text: Kompak
+logo: /assets/images/logo2.png
+alt-logo: spesialis lapangan tenis
+twitter:
+youtube: 
+instagram: https://www.instagram.com/spesialis_lapangan
+facebook: https://www.facebook.com/spesialislapangantenis
+copyright: © Copyright <strong>Adhyasta</strong>. <br>All Rights Reserved and All the trademarks are the property of their respective owners
+whatsapp-float-desktop: https://web.whatsapp.com/send?phone=6281335602222&text=Hallo, Adhyasta
+whatsapp-float-phone: whatsapp://send?text=Hallo, Adhyasta!&phone=+6281335602222
+exclude: [README.md]
+email: info@adhyasta.com
+type: LocalBusiness
+maps: https://goo.gl/maps/jTzzLddniTQwRZgL6
+streetAddress: RT 2 RW 3 Dusun Sumber 
+address: Desa Wonokromo, Kecamatan Gondang, Kabupaten Tulungagung, Jawa Timur, Indonesia
+postalCode: 66263
+telephonenya: Adi Satria Dharma
+telephone: +6281335602222
+telephonedetail: 0813-3560-2222
+whatsapp-api: https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&phone=6281335602222
+telephonenya2: Pongki Gigih Kusuma
+telephone2: +6281335443600
+telephonedetail2: 0813-3544-3600 
+whatsapp-api2: https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&phone=6281335443600
+fb_app_id: 337089783656412
+google-my-bussiness: <iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1975.2356590898798!2d111.84884479903303!3d-8.053310690635394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e791d51170fe99f%3A0xf207e619d08a59cc!2sAdhyasta+kontraktor!5e0!3m2!1sen!2sid!4v1558501012828!5m2!1sen!2sid" allowfullscreen=""></iframe>
+favicon: /favicon.ico
+siteurl: https://adhyasta.com
+permalink: pretty
+plugins:
+  - jekyll-feed
+collections:
+  data-slider:
+    output: true
+  data-product:
+    output: true
+    permalink: /produk/:name
+  data-gallery:
+    output: true
+  data-gallery-basket:
+    output: true
+  data-gallery-bulutangkis:
+    output: true
+  data-gallery-futsal:
+    output: true
+  data-gallery-home:
+    output: true
+  data-gallery-jogging-track:
+    output: true
+  data-gallery-kolam-renang:
+    output: true
+  data-gallery-rth:
+    output: true
+  data-gallery-sepak-bola:
+    output: true
+  data-gallery-sepak-takraw:
+    output: true
+  data-gallery-sikat:
+    output: true
+  data-gallery-tenis:
+    output: true
+  data-gallery-voli:
+    output: true
+  data-client:
+    output: true
+  data-choose:
+    output: true
