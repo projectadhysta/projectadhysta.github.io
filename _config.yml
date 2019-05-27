@@ -51,7 +51,7 @@ collections:
     output: true
   data-product:
     output: true
-    permalink: /produk/:name
+    permalink: /produk/:name/
   data-gallery:
     output: true
   data-gallery-basket:
