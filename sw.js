@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "2019/05/24/posting-pertama/index.html",
-    "revision": "f174726b1829ab83c093c5456e03e511"
+    "revision": "c271026e1670bdf1b50369352deab7a8"
   },
   {
     "url": "404.html",
@@ -83,19 +83,19 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/images/1-lapangan-sepak-takraw.jpg",
-    "revision": "98d29657fb2a6b12b663fbb4f5d299d0"
+    "revision": "1a77dd37ac09b7659c9fc7d57c17511f"
   },
   {
     "url": "assets/images/10-jasa-batu-koral-sikat.jpg",
-    "revision": "6f15caa86672930ad6aaee62b34207c1"
+    "revision": "019acdd249630297afbeffb58c0043db"
   },
   {
     "url": "assets/images/11-kolam-renang.jpg",
-    "revision": "857a5d1d55cae6486203a97865e25a1b"
+    "revision": "c89959e6df6db353153ad1074164b144"
   },
   {
     "url": "assets/images/2-lapangan-bola-voli.jpg",
-    "revision": "17c7b2f96bec0931cc024413cd8956c1"
+    "revision": "bced5427d46f10c457dc66249087d03d"
   },
   {
     "url": "assets/images/3-lapangan-futsal-1.jpg",
@@ -107,11 +107,11 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/images/3-lapangan-futsal.jpg",
-    "revision": "fbb671033e76c185dc6db3abb90c3b30"
+    "revision": "481b6203a5af6c5244881374227d8bb5"
   },
   {
     "url": "assets/images/4-lapangan-bulu-tangkis.jpg",
-    "revision": "f236b7e18577f4f8dfa070f212068721"
+    "revision": "64857e60e6e5918e6c5af20562d77999"
   },
   {
     "url": "assets/images/5-lapangan-bola-basket-1.jpg",
@@ -119,7 +119,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/images/5-lapangan-bola-basket-2.jpg",
-    "revision": "13803b07d73f7ebfe17c4e75d01ca4a0"
+    "revision": "86b313db1e953b8e95a6bf0842a1e077"
   },
   {
     "url": "assets/images/5-lapangan-bola-basket-3.jpg",
@@ -143,7 +143,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/images/6-lapangan-sepak-bola-1.jpg",
-    "revision": "36c2118c12ba64049ce0ab46e93363be"
+    "revision": "78494425639fe60cd90412da7742c426"
   },
   {
     "url": "assets/images/6-lapangan-sepak-bola.jpg",
@@ -163,7 +163,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/images/7-joging-track.jpg",
-    "revision": "39dcdbf39f2df85382be24370376662b"
+    "revision": "43f38127a5a25e346803b221bb47bb5f"
   },
   {
     "url": "assets/images/8-lapangan-tenis-1.jpg",
@@ -239,7 +239,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/images/9-ruang-terbuka-hijau.jpg",
-    "revision": "8fb2f240d25e6d90de46e7680d2833c4"
+    "revision": "bf094d1f0f9f6db223fd450d3a1f539a"
   },
   {
     "url": "assets/images/adaro.png",
@@ -247,7 +247,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/images/background6.jpg",
-    "revision": "b9e1bd622d20a70020f5a22fd26f4949"
+    "revision": "984f469f90fb04d84cf460cde342caa4"
   },
   {
     "url": "assets/images/hashes.json",
@@ -258,8 +258,16 @@ self.__precacheManifest = [
     "revision": "2efb7efbf614dc3667d5807661ca164d"
   },
   {
+    "url": "assets/images/home-4-lapangan-bulu-tangkis.jpg",
+    "revision": "d59fbbee7959bc910cf7cd45ab1b5455"
+  },
+  {
+    "url": "assets/images/home-mbr-736x460.jpg",
+    "revision": "bf44dec3964897217688a459cf63fae0"
+  },
+  {
     "url": "assets/images/kejaksaan-gorontalo.png",
-    "revision": "a649b69ffc5f54bae5bf260c735b83ec"
+    "revision": "e4b5d994bfa3ef29e9a5ec77748a5407"
   },
   {
     "url": "assets/images/klikada-panjang.svg",
@@ -275,27 +283,27 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/images/pelti-garut.png",
-    "revision": "3fa73ba8fb286334aaafd06f43aedcd8"
+    "revision": "eae94a97ba7865dab8be6fd61a7b5084"
   },
   {
     "url": "assets/images/pelti-karanganyar.png",
-    "revision": "7a91cbb00da939e4a772fd0e4f59ba52"
+    "revision": "70b04211801dd2e9196e7d1c92afc5c7"
   },
   {
     "url": "assets/images/pelti-lubuklingau.png",
-    "revision": "defa556fc6b5a4881310e8334da87d45"
+    "revision": "2e2b72e3f05645b4a640648ee150590c"
   },
   {
     "url": "assets/images/pelti-palembang.png",
-    "revision": "d2a4c209407455d0fbcdf067ec611586"
+    "revision": "88905183703621e0cc025f469d39ee31"
   },
   {
     "url": "assets/images/pelti-palopo.png",
-    "revision": "fb898c01b866033b1a3331a867394e26"
+    "revision": "2a913677b67b72b0516390a10cb37eef"
   },
   {
     "url": "assets/images/pelti-tamyanglayang.png",
-    "revision": "ad1fbd22d38dc195a83e618eaf9cc5f7"
+    "revision": "7a56fb313b7669c0afb36742689a6d8a"
   },
   {
     "url": "assets/images/rock-star.png",
@@ -303,7 +311,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/images/semen-gresik.png",
-    "revision": "dd14a087d29d44f80fb03cdc93f30924"
+    "revision": "02b3f86234f83541c4f7e7c08a1329d3"
   },
   {
     "url": "assets/images/semen-indonesia.png",
@@ -311,7 +319,7 @@ self.__precacheManifest = [
   },
   {
     "url": "assets/images/Sultan-Hotel.png",
-    "revision": "37ad08513298dda3e037f4e41cd39183"
+    "revision": "6988b43ab6c3e4db6680d3becf9a3b0b"
   },
   {
     "url": "assets/images/whatsapp.png",
@@ -443,7 +451,7 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/index.html",
-    "revision": "25d1e584fa4c34d3e8ca3b85a6473b8d"
+    "revision": "9616817e4756fbb8c2784fb3be32d8c9"
   },
   {
     "url": "data-choose/1-karena/index.html",
@@ -939,11 +947,11 @@ self.__precacheManifest = [
   },
   {
     "url": "feed.xml",
-    "revision": "915352d547cda683b3ef6ebc091bb2d1"
+    "revision": "6ec255e9bc207dd769d840ae86a3e1ca"
   },
   {
     "url": "galeri/index.html",
-    "revision": "6217ffdb46891745c6c84d7561185131"
+    "revision": "e15fbee5308c6d9d23429237ed069d6b"
   },
   {
     "url": "images/icons/icon-128x128.png",
@@ -979,11 +987,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "18ace91c15b128d76a82bca3813c2d74"
+    "revision": "fdfa7a9d95dc1d1944bd97066e7268d9"
   },
   {
     "url": "kontak/index.html",
-    "revision": "3cce7fe604efbca2219dc119ca9b9b67"
+    "revision": "7ab5112c67795e1e871f772c9ac631b6"
   },
   {
     "url": "manifest.json",
@@ -991,59 +999,63 @@ self.__precacheManifest = [
   },
   {
     "url": "privacy-policy/index.html",
-    "revision": "f6e8cebf8ce4456e18ecd1e62ad11b3c"
+    "revision": "0e314f074ba743be8c74e6956a49bc26"
   },
   {
-    "url": "produk/spesialis-jasa-batu-koral-sikat.html",
-    "revision": "8778ab4d936e63333febe8dfae6487ab"
+    "url": "produk/spesialis-jasa-batu-koral-sikat/index.html",
+    "revision": "325514127ca4c0a4426b02e7ab2cbe38"
   },
   {
-    "url": "produk/spesialis-jogging-track.html",
-    "revision": "e1261508a2cd3677d99feb3588e69920"
+    "url": "produk/spesialis-jogging-track/index.html",
+    "revision": "3c210750204c11b24173e241e23cedb2"
   },
   {
-    "url": "produk/spesialis-kolam-renang.html",
-    "revision": "f7acee5866ad7e195003744434ea6f48"
+    "url": "produk/spesialis-kolam-renang/index.html",
+    "revision": "13449d6346da7c6e3f0eb10b5bddb73d"
   },
   {
-    "url": "produk/spesialis-lapangan-basket.html",
-    "revision": "456b007f78153354c31b62b89a08f149"
+    "url": "produk/spesialis-lapangan-basket/index.html",
+    "revision": "c02ab109f90abfff0e27eae4141c8240"
   },
   {
-    "url": "produk/spesialis-lapangan-bukutangkis.html",
-    "revision": "54020ae9e4200f803f8099315d970d1f"
+    "url": "produk/spesialis-lapangan-bukutangkis/index.html",
+    "revision": "5c78ca2e0b5044a94ea2e1904b11d3fc"
   },
   {
-    "url": "produk/spesialis-lapangan-futsal.html",
-    "revision": "c88bbc8a659e1d115747cd83c06d2a14"
+    "url": "produk/spesialis-lapangan-futsal/index.html",
+    "revision": "74ff395f40b572fe09d3c3d56618301b"
   },
   {
-    "url": "produk/spesialis-lapangan-sepak-bola.html",
-    "revision": "c0172c0011bab10908e201d7a33dd718"
+    "url": "produk/spesialis-lapangan-sepak-bola/index.html",
+    "revision": "a8bf8b11d83803911e15645fc17638f6"
   },
   {
-    "url": "produk/spesialis-lapangan-sepak-takraw.html",
-    "revision": "37f0e1f7e42abaccde8638a46df135ed"
+    "url": "produk/spesialis-lapangan-sepak-takraw/index.html",
+    "revision": "1192f8a8f39bc01c43f6171f0e4fed1a"
   },
   {
-    "url": "produk/spesialis-lapangan-tenis.html",
-    "revision": "4453245dd9d04db082fa51779c7fed26"
+    "url": "produk/spesialis-lapangan-tenis/index.html",
+    "revision": "24b2d749b03e542ba8e19192474d3749"
   },
   {
-    "url": "produk/spesialis-lapangan-voli.html",
-    "revision": "d297c793954868ce7c1f425d132911b8"
+    "url": "produk/spesialis-lapangan-voli/index.html",
+    "revision": "c0b1156629cf1e5c9bd157dcca531295"
   },
   {
-    "url": "produk/spesialis-ruang-terbuka-hijau.html",
-    "revision": "cd407218e3d417e4ac8ee7040b5995c3"
+    "url": "produk/spesialis-ruang-terbuka-hijau/index.html",
+    "revision": "fa5983717b216009c98aefc2613b200f"
   },
   {
     "url": "robots.txt",
     "revision": "c725a554b0ff7c50968706c95f2e331a"
   },
   {
+    "url": "sitemap.xml",
+    "revision": "0d96e68220e2d430cdd48fb2a535750a"
+  },
+  {
     "url": "terms-and-conditions/index.html",
-    "revision": "5ed009caaefdb07b6ffa409bf0d271ed"
+    "revision": "0683688fbd398edb9bc34e35001c34ca"
   },
   {
     "url": "workbox-config.js",
