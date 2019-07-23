@@ -1,10 +1,10 @@
 ---
 layout: post
 title: spesialis Lapangan tenis
-images: /assets/images/8-lapangan-tenis-1.jpg
+images: /assets/images/8-lapangan-tenis-2.jpg
 images-alt: spesialis Lapangan tenis
 penulis: DNYRWA
-photos: /assets/images/8-lapangan-tenis-1.jpg
+photos: /assets/images/8-lapangan-tenis-2.jpg
 deskripsi: Deskripsi dalam posting pertama ini sangat di perlukan karena untuk menjelaskan judul dan sebagai jembatan artikel.
 ---
 <section class="features11 cid-rravbvzsVT" id="features11-5">
@@ -83,9 +83,9 @@ deskripsi: Deskripsi dalam posting pertama ini sangat di perlukan karena untuk m
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style display-7">
                 <ol>
-                    <li><strong>MOBILE FRIENDLY</strong> - no special actions required, all sites you make with adhyasta are mobile-friendly. You don't have to create a special mobile version of your site, it will adapt automagically. <a href="https://adhyasta.co/">Try it now!</a></li>
-                    <li><strong>EASY AND SIMPLE</strong> - cut down the development time with drag-and-drop website builder. Drop the blocks into the page, edit content inline and publish - no technical skills required. <a href="https://adhyasta.co/">Try it now!</a></li>
-                    <li><strong>UNIQUE STYLES</strong> - choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more. <a href="https://adhyasta.co/">Try it now!</a></li>
+                    <li><strong>MOBILE FRIENDLY</strong> - no special actions required, all sites you make with adhyasta are mobile-friendly. You don't have to create a special mobile version of your site, it will adapt automagically. <a href="https://adhyasta.com/">Try it now!</a></li>
+                    <li><strong>EASY AND SIMPLE</strong> - cut down the development time with drag-and-drop website builder. Drop the blocks into the page, edit content inline and publish - no technical skills required. <a href="https://adhyasta.com/">Try it now!</a></li>
+                    <li><strong>UNIQUE STYLES</strong> - choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more. <a href="https://adhyasta.com/">Try it now!</a></li>
                 </ol>
             </div>
         </div>
@@ -96,9 +96,9 @@ deskripsi: Deskripsi dalam posting pertama ini sangat di perlukan karena untuk m
         <div class="media-container-row">
             <div class="mbr-text counter-container col-12 col-md-8 mbr-fonts-style display-7">
                 <ul>
-                    <li><strong>MOBILE FRIENDLY</strong> - o special actions required, all sites you make with adhyasta are mobile-friendly. You don't have to create a special mobile version of your site, it will adapt automagically. <a href="https://adhyasta.co/">Try it now!</a></li>
-                    <li><strong>EASY AND SIMPLE</strong> - cut down the development time with drag-and-drop website builder. Drop the blocks into the page, edit content inline and publish - no technical skills required. <a href="https://adhyasta.co/">Try it now!</a></li>
-                    <li><strong>UNIQUE STYLES</strong> - choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more. <a href="https://adhyasta.co/">Try it now!</a></li>
+                    <li><strong>MOBILE FRIENDLY</strong> - o special actions required, all sites you make with adhyasta are mobile-friendly. You don't have to create a special mobile version of your site, it will adapt automagically. <a href="https://adhyasta.com/">Try it now!</a></li>
+                    <li><strong>EASY AND SIMPLE</strong> - cut down the development time with drag-and-drop website builder. Drop the blocks into the page, edit content inline and publish - no technical skills required. <a href="https://adhyasta.com/">Try it now!</a></li>
+                    <li><strong>UNIQUE STYLES</strong> - choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more. <a href="https://adhyasta.com/">Try it now!</a></li>
                 </ul>
             </div>
         </div>
@@ -108,7 +108,7 @@ deskripsi: Deskripsi dalam posting pertama ini sangat di perlukan karena untuk m
     <div class="container">
         <div class="media-container-row">
             <div class="mbr-text col-12 col-md-8 mbr-fonts-style display-7">
-                <blockquote> <strong>Make your own website in a few clicks!</strong> adhyasta helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. adhyasta Website Builder creates responsive, retina and <strong>mobile friendly websites</strong> in a few clicks. adhyasta is one of the easiest website development tools <a href="https://adhyasta.co/">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>
+                <blockquote> <strong>Make your own website in a few clicks!</strong> adhyasta helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. adhyasta Website Builder creates responsive, retina and <strong>mobile friendly websites</strong> in a few clicks. adhyasta is one of the easiest website development tools <a href="https://adhyasta.com/">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>
             </div>
         </div>
     </div>
@@ -175,8 +175,8 @@ deskripsi: Deskripsi dalam posting pertama ini sangat di perlukan karena untuk m
         <div class="media-container-row title">
             <div class="col-12 col-md-8">
                 <div class="mbr-section-btn align-center">
-                    <a class="btn btn-primary display-4" href="https://adhyasta.co">LEARN MORE</a>
-                    <a class="btn btn-black-outline display-4" href="https://adhyasta.co">LIVE DEMO</a>
+                    <a class="btn btn-primary display-4" href="https://adhyasta.com">LEARN MORE</a>
+                    <a class="btn btn-black-outline display-4" href="https://adhyasta.com">LIVE DEMO</a>
                 </div>
             </div>
         </div>
