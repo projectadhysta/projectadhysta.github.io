@@ -46,7 +46,7 @@ deskripsi: Anda ingin membuat lapangan basket, mencari Kontraktor Lapangan Baske
                     </div>
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            Mendapatkan lapangan olahraga di rumah, lapangan basket mungkin adalah keputusan terbaik yang akan Anda buat tahun ini. Ini merupakan tambahan untuk rumah Anda dan janji untuk tetap bugar sepanjang tahun. Dengan bantuan tim kami; Anda akan mendapatkan lapangan yang sesuai dengan kepribadian dan gaya Anda; semuanya sambil memberi diri Anda dan keluarga hadiah yang berlangsung seumur hidup. Tim <a href="/produk/spesialis-lapangan-Basket/">Kontraktor Lapangan Basket</a> kami berusaha untuk memberikan yang terbaik dalam layanan, profesionalisme, dan materi. Apakah Anda membutuhkan pembangunan lapangan Basket atau renovasi lapangan Basket, kami dapat menyelesaikan pekerjaan dengan profesional. Untuk informasi lebih lanjut tentang layanan yang kami tawarkan, atau untuk mendapatkan estimasi harga, Anda dapat menghubungi tim kami hari ini di <a class="btn btn-primary display-4" href="tel:6281335602222">Telepon 0813-3560-2222</a>.
+                            Mendapatkan lapangan olahraga di rumah, lapangan basket mungkin adalah keputusan terbaik yang akan Anda buat tahun ini. Ini merupakan tambahan untuk rumah Anda dan janji untuk tetap bugar sepanjang tahun. Dengan bantuan tim kami; Anda akan mendapatkan lapangan yang sesuai dengan kepribadian dan gaya Anda; semuanya sambil memberi diri Anda dan keluarga hadiah yang berlangsung seumur hidup. Tim <a href="/produk/spesialis-lapangan-Basket/">Kontraktor Lapangan Basket</a> kami berusaha untuk memberikan yang terbaik dalam layanan, profesionalisme, dan materi. Apakah Anda membutuhkan pembangunan lapangan Basket atau renovasi lapangan Basket, kami dapat menyelesaikan pekerjaan dengan profesional. Untuk informasi lebih lanjut tentang layanan yang kami tawarkan, atau untuk mendapatkan estimasi harga, Anda dapat menghubungi tim kami hari ini di <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a>.
                         </p>
                     </div>
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
@@ -57,7 +57,7 @@ deskripsi: Anda ingin membuat lapangan basket, mencari Kontraktor Lapangan Baske
                             Apakah Anda mencari kontraktor lapangan basket di Indonesia yang dapat memberikan Anda lapangan outdoor yang cantik? Tim <a href="/">Adhyasta Kontraktor</a> memiliki pengalaman dalam konstruksi lapangan olahraga, termasuk lapangan basket. Apakah Anda memerlukan lapangan terbuka untuk klub olahraga atau halaman belakang Anda, kami dapat membantu mewujudkan rencana Anda.
                             Lapangan basket outdoor harus memberikan daya cengkeram yang sangat baik, pantulan, dan daya tahan untuk cukup menahan unsur-unsur sambil memberikan permukaan yang ideal untuk bermain. Beton sering dipilih untuk lapangan basket karena mulus, konsisten, dan tahan lama. Lapangan basket beton biasanya dipasang dengan penghalang uap, serta lapisan karet antara fondasi beton dan permukaan akrilik untuk meningkatkan penyerapan goncangan. Bahan-bahan khusus dapat ditambahkan di atas lapisan permukaan lapangan untuk meningkatkan daya tahan lapangan dan menambahkan penghalang ekstra untuk kelembaban.
                             Lapangan basket yang dibangun dengan baik menawarkan lebih dari sekedar tempat untuk olahraga. Ketika Anda menyewa profesional untuk membuat lapangan basket Anda, kami dapat memastikan bahwa itu dibangun dengan standar kontruksi yang tepat dengan tujuan untuk menjaga permainan tetap nyaman dan aman. Kami tidak hanya menangani instalasi baru, tetapi kami juga dapat melapisi kembali lapangan basket Anda sehingga Anda dapat menikmatinya selama bertahun-tahun yang akan datang.
-                            Ketika Anda membutuhkan kontraktor lapangan basket rumahan yang dapat menyelesaikan pekerjaan dengan benar, tim <a href="/">Adhyasta Kontraktor</a> hanya berjarak satu panggilan telepon untuk menghadirkan yang terbaik dalam konstruksi lapangan basket. Untuk informasi lebih lanjut tentang jenis-jenis lapangan olahraga tempat kami bekerja, atau untuk mendapatkan konsultasi gratis tentang kebutuhan lapangan basket Anda. Hubungi tim kami hari ini di <a class="btn btn-primary display-4" href="tel:6281335602222">Telepon 0813-3560-2222</a>
+                            Ketika Anda membutuhkan kontraktor lapangan basket rumahan yang dapat menyelesaikan pekerjaan dengan benar, tim <a href="/">Adhyasta Kontraktor</a> hanya berjarak satu panggilan telepon untuk menghadirkan yang terbaik dalam konstruksi lapangan basket. Untuk informasi lebih lanjut tentang jenis-jenis lapangan olahraga tempat kami bekerja, atau untuk mendapatkan konsultasi gratis tentang kebutuhan lapangan basket Anda. Hubungi tim kami hari ini di <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a>
                         </p>
                     </div>
                 </div>
@@ -82,7 +82,7 @@ deskripsi: Anda ingin membuat lapangan basket, mencari Kontraktor Lapangan Baske
                             <a href="/produk/spesialis-lapangan-Basket/">Kontraktor Lapangan Basket</a> Surabaya
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                        <a class="btn btn-primary display-4" href="tel:6281335602222">Telepon 0813-3560-2222</a>
+                        <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a>
                         <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6281335602222">Whatsapp 0813-3560-2222</a>
                         </p>
                     </div>
@@ -98,7 +98,7 @@ deskripsi: Anda ingin membuat lapangan basket, mencari Kontraktor Lapangan Baske
                             <a href="/produk/spesialis-lapangan-Basket/">Kontraktor Lapangan Basket</a> Jakarta
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                        <a class="btn btn-primary display-4" href="tel:6281335602222">Telepon 0813-3560-2222</a>
+                        <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a>
                         <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6281335602222">Whatsapp 0813-3560-2222</a>
                         </p>
                     </div>
@@ -114,7 +114,7 @@ deskripsi: Anda ingin membuat lapangan basket, mencari Kontraktor Lapangan Baske
                             <a href="/produk/spesialis-lapangan-Basket/">Kontraktor Lapangan Basket</a> Bandung
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                        <a class="btn btn-primary display-4" href="tel:6281335602222">Telepon 0813-3560-2222</a>
+                        <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a>
                         <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6281335602222">Whatsapp 0813-3560-2222</a>
                         </p>
                     </div>

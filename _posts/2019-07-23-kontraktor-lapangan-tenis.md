@@ -33,7 +33,7 @@ deskripsi: Anda ingin membuat lapangan tenis baru, mencari Kontraktor Lapangan T
                     </div>
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            Jika Anda mencari perusahaan pelapisan lapangan tenis di Indonesia untuk memperbaiki lapangan olahraga Anda, <a href="/">Adhyasta Kontraktor</a> adalah nama yang dapat Anda andalkan untuk layanan premium untuk membuat lapangan tenis Anda tampak seperti baru. Untuk informasi lebih lanjut tentang layanan pembuatan lapangan olahraga dan pelapisan ulang kami atau untuk menjadwalkan konsultasi untuk lapangan tenis Anda, hubungi kami hari ini di <a class="btn btn-primary display-4" href="tel:6281335602222">Telepon 0813-3560-2222</a> <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6281335602222">Whatsapp 0813-3560-2222</a>.
+                            Jika Anda mencari perusahaan pelapisan lapangan tenis di Indonesia untuk memperbaiki lapangan olahraga Anda, <a href="/">Adhyasta Kontraktor</a> adalah nama yang dapat Anda andalkan untuk layanan premium untuk membuat lapangan tenis Anda tampak seperti baru. Untuk informasi lebih lanjut tentang layanan pembuatan lapangan olahraga dan pelapisan ulang kami atau untuk menjadwalkan konsultasi untuk lapangan tenis Anda, hubungi kami hari ini di <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a> <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6281335602222">Whatsapp 0813-3560-2222</a>.
                         </p>
                     </div>
                     <div class="mbr-section-text">
@@ -51,7 +51,7 @@ deskripsi: Anda ingin membuat lapangan tenis baru, mencari Kontraktor Lapangan T
                     </div>
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            Ada beberapa manfaat lain menggunakan lapangan multi-olahraga. Untuk satu, Anda memiliki penggunaan ruang yang efisien yang mengakomodasi berbagai permainan, yang bisa sangat ideal di lokasi dengan ruang terbatas seperti halaman belakang keluarga atau pusat kebugaran kecil atau klub olahraga. Juga, memiliki port multi guna di fasilitas apa pun meningkatkan keserbagunaan ruang itu, sehingga Anda dapat memainkan game yang Anda sukai kapan pun Anda suka. Ketika Anda siap untuk yang terbaik dalam konstruksi lapangan olahraga multi guna, Tim <a href="/produk/spesialis-lapangan-tenis/">Kontraktor Lapangan Tenis</a> kami berusaha untuk memberikan yang terbaik dalam layanan, profesionalisme, dan materi. Apakah Anda membutuhkan pembangunan lapangan tenis atau renovasi lapangan tenis, kami dapat menyelesaikan pekerjaan dengan profesional. Untuk informasi lebih lanjut tentang layanan yang kami tawarkan, atau untuk mendapatkan estimasi harga, Anda dapat menghubungi tim kami hari ini di <a class="btn btn-primary display-4" href="tel:6281335602222">Telepon 0813-3560-2222</a>.
+                            Ada beberapa manfaat lain menggunakan lapangan multi-olahraga. Untuk satu, Anda memiliki penggunaan ruang yang efisien yang mengakomodasi berbagai permainan, yang bisa sangat ideal di lokasi dengan ruang terbatas seperti halaman belakang keluarga atau pusat kebugaran kecil atau klub olahraga. Juga, memiliki port multi guna di fasilitas apa pun meningkatkan keserbagunaan ruang itu, sehingga Anda dapat memainkan game yang Anda sukai kapan pun Anda suka. Ketika Anda siap untuk yang terbaik dalam konstruksi lapangan olahraga multi guna, Tim <a href="/produk/spesialis-lapangan-tenis/">Kontraktor Lapangan Tenis</a> kami berusaha untuk memberikan yang terbaik dalam layanan, profesionalisme, dan materi. Apakah Anda membutuhkan pembangunan lapangan tenis atau renovasi lapangan tenis, kami dapat menyelesaikan pekerjaan dengan profesional. Untuk informasi lebih lanjut tentang layanan yang kami tawarkan, atau untuk mendapatkan estimasi harga, Anda dapat menghubungi tim kami hari ini di <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a>.
                         </p>
                     </div>
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
@@ -62,7 +62,7 @@ deskripsi: Anda ingin membuat lapangan tenis baru, mencari Kontraktor Lapangan T
                             Apakah Anda mencari kontraktor lapangan basket di Indonesia yang dapat memberikan Anda lapangan outdoor yang cantik? Tim <a href="/">Adhyasta Kontraktor</a> memiliki pengalaman dalam konstruksi lapangan olahraga, termasuk lapangan basket. Apakah Anda memerlukan lapangan terbuka untuk klub olahraga atau halaman belakang Anda, kami dapat membantu mewujudkan rencana Anda.
                             Lapangan basket outdoor harus memberikan daya cengkeram yang sangat baik, pantulan, dan daya tahan untuk cukup menahan unsur-unsur sambil memberikan permukaan yang ideal untuk bermain. Beton sering dipilih untuk lapangan basket karena mulus, konsisten, dan tahan lama. Lapangan basket beton biasanya dipasang dengan penghalang uap, serta lapisan karet antara fondasi beton dan permukaan akrilik untuk meningkatkan penyerapan goncangan. Bahan-bahan khusus dapat ditambahkan di atas lapisan permukaan lapangan untuk meningkatkan daya tahan lapangan dan menambahkan penghalang ekstra untuk kelembaban.
                             Lapangan basket yang dibangun dengan baik menawarkan lebih dari sekedar tempat untuk olahraga. Ketika Anda menyewa profesional untuk membuat lapangan basket Anda, kami dapat memastikan bahwa itu dibangun dengan standar kontruksi yang tepat dengan tujuan untuk menjaga permainan tetap nyaman dan aman. Kami tidak hanya menangani instalasi baru, tetapi kami juga dapat melapisi kembali lapangan basket Anda sehingga Anda dapat menikmatinya selama bertahun-tahun yang akan datang.
-                            Ketika Anda membutuhkan kontraktor lapangan basket rumahan yang dapat menyelesaikan pekerjaan dengan benar, tim <a href="/">Adhyasta Kontraktor</a> hanya berjarak satu panggilan telepon untuk menghadirkan yang terbaik dalam konstruksi lapangan basket. Untuk informasi lebih lanjut tentang jenis-jenis lapangan olahraga tempat kami bekerja, atau untuk mendapatkan konsultasi gratis tentang kebutuhan lapangan basket Anda. Hubungi tim kami hari ini di <a class="btn btn-primary display-4" href="tel:6281335602222">Telepon 0813-3560-2222</a>
+                            Ketika Anda membutuhkan kontraktor lapangan basket rumahan yang dapat menyelesaikan pekerjaan dengan benar, tim <a href="/">Adhyasta Kontraktor</a> hanya berjarak satu panggilan telepon untuk menghadirkan yang terbaik dalam konstruksi lapangan basket. Untuk informasi lebih lanjut tentang jenis-jenis lapangan olahraga tempat kami bekerja, atau untuk mendapatkan konsultasi gratis tentang kebutuhan lapangan basket Anda. Hubungi tim kami hari ini di <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a>
                         </p>
                     </div>
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
@@ -79,7 +79,7 @@ deskripsi: Anda ingin membuat lapangan tenis baru, mencari Kontraktor Lapangan T
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
                             Jika Anda membutuhkan lapangan multi guna untuk fasilitas kecil atau koleksi lapangan yang luas dan beragam. Kami dapat menangani semuanya mulai dari memasang penghalang beton dan uap hingga pengupasan, pemasangan jaring, dan memasang pagar berlapis vinil. Kami bahkan mengatur petir sehingga pemain dapat menikmati tenis kapan saja di lapangan yang terang dan nyaman. Tim kami juga dapat menangani pelapisan ulang untuk lapangan olahraga Anda. Apakah lapangan Anda terlewati dari usia dan unsur-unsurnya atau Anda ingin lapangan Anda kembali bergaris sesuai dengan olahraga yang berbeda. Kami dapat membantu Anda dengan layanan cepat dengan harga yang kompetitif.
-                            Ketika Anda membutuhkan profesional instalasi lapangan olahraga yang andal untuk menangani kebutuhan Anda. Anda dapat mengandalkan <a href="/">Adhyasta Kontraktor</a> untuk pembangunan lapangan tenis untuk klub dan kota-kota di Indonesia. Kami melayani pembuatan lapangan olahraga pribadi, klub olahraga, dan fasilitas kota. Instalasi berkualitas tinggi yang dapat dinikmati selama bertahun-tahun yang akan datang. Untuk informasi lebih lanjut tentang layanan konstruksi dan pelapisan ulang kami, atau untuk mendapatkan perkiraan untuk instalasi Anda. Hubungi kami hari ini di <a class="btn btn-primary display-4" href="tel:6281335602222">Telepon 0813-3560-2222</a>.
+                            Ketika Anda membutuhkan profesional instalasi lapangan olahraga yang andal untuk menangani kebutuhan Anda. Anda dapat mengandalkan <a href="/">Adhyasta Kontraktor</a> untuk pembangunan lapangan tenis untuk klub dan kota-kota di Indonesia. Kami melayani pembuatan lapangan olahraga pribadi, klub olahraga, dan fasilitas kota. Instalasi berkualitas tinggi yang dapat dinikmati selama bertahun-tahun yang akan datang. Untuk informasi lebih lanjut tentang layanan konstruksi dan pelapisan ulang kami, atau untuk mendapatkan perkiraan untuk instalasi Anda. Hubungi kami hari ini di <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a>.
                         </p>
                     </div>
                 </div>
@@ -104,7 +104,7 @@ deskripsi: Anda ingin membuat lapangan tenis baru, mencari Kontraktor Lapangan T
                             <a href="/produk/spesialis-lapangan-tenis/">Kontraktor Lapangan Tenis</a> Surabaya
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                        <a class="btn btn-primary display-4" href="tel:6281335602222">Telepon 0813-3560-2222</a>
+                        <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a>
                         <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6281335602222">Whatsapp 0813-3560-2222</a>
                         </p>
                     </div>
@@ -120,7 +120,7 @@ deskripsi: Anda ingin membuat lapangan tenis baru, mencari Kontraktor Lapangan T
                             <a href="/produk/spesialis-lapangan-tenis/">Kontraktor Lapangan Tenis</a> Jakarta
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                        <a class="btn btn-primary display-4" href="tel:6281335602222">Telepon 0813-3560-2222</a>
+                        <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a>
                         <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6281335602222">Whatsapp 0813-3560-2222</a>
                         </p>
                     </div>
@@ -136,7 +136,7 @@ deskripsi: Anda ingin membuat lapangan tenis baru, mencari Kontraktor Lapangan T
                             <a href="/produk/spesialis-lapangan-tenis/">Kontraktor Lapangan Tenis</a> Bandung
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                        <a class="btn btn-primary display-4" href="tel:6281335602222">Telepon 0813-3560-2222</a>
+                        <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a>
                         <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6281335602222">Whatsapp 0813-3560-2222</a>
                         </p>
                     </div>
