@@ -12,21 +12,19 @@ deskripsi: Kami adalah perusahaan spesialis kontraktor lapangan futsal dengan pe
         <div class="col-md-12">
             <div class="media-container-row">
                 <div class=" align-left aside-content">
-                    <h2 class="mbr-title pt-2 mbr-fonts-style display-2"><a href="/produk/spesialis-lapangan-futsal/">Kontraktor Pembuatan Lapangan Futsal</a>?</h2>
+                    <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
+                        Kenapa harus memilih <a href="/produk/spesialis-lapangan-futsal/">Kontraktor Pembuatan Lapangan Futsal</a>
+                    </h2>
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
                             Kami adalah perusahaan spesialis pembuatan lapangan futsal dengan pengalaman telah melayani 100 lebih konsumen dalam segala pekerjaan. Baik dalam konstruksi pembuatan lapangan futsal maupun pembuatan lantai lapangan futsal. <a href="/"><a href="/">Adhyasta</a> kontraktor lapangan futsal</a> adalah sebuah perusahaan spesialis pembuatan lapangan futsal. Sebagai perusahaan kontraktor lapangan futsal, sudah selayaknya anda percaya terhadap kami. Karena kami telah melayani 100 lebih konsumen dalam hal pekerjaan baik di dalam konstruksi, pembuatan lantai lapangan futsal, serta yang pasti jaring keliling lapangan futsal. Oleh karena itu suatu keniscayaan apabila anda percaya kepada kami dan menyerahkan pekerjaan proyek pembuatan lapangan futsal kepada adhyastha kontraktor lapangan futsal.
                         </p>
-                    </div>
                     <div class="mbr-figure m-auto" style="width: 50%;">
-                    <img src="/assets/images/3-lapangan-futsal.jpg" alt="adhyasta kontraktor lapangan futsal" title="adhyasta kontraktor lapangan futsal">
-                </div>
-                    <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
-                        Mengapa harus memilih <a href="/">Adhyasta</a> kontraktor lapangan futsal
-                    </h2>
-                    <div class="mbr-section-text">
-                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            berbagai instansi baik di pemerintahan maupun di swasta khususnya di perusahaan-perusahaan besar di seluruh Indonesia. mereka telah mempercayakan pembuatan lapangan futsal Nya kepada kami, dan yang pasti pekerjaan itu telah sukses serta mendapatkan hasil yang maksimal. oleh karena itu alasan mengapa anda harus memilih kami adhyastha kontraktor lapangan futsal adalah:</p>
+                        <img src="/assets/images/kontraktor-lapangan-futsal.webp" alt="adhyasta kontraktor lapangan futsal" title="adhyasta kontraktor lapangan futsal">
+                    </div>
+                    <h2 class="mbr-title pt-2 mbr-fonts-style display-2">Mengapa harus memilih <a href="/">Adhyasta</a> kontraktor lapangan futsal</h2>
+                    <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
+                        berbagai instansi baik di pemerintahan maupun di swasta khususnya di perusahaan-perusahaan besar di seluruh Indonesia. mereka telah mempercayakan pembuatan lapangan futsal Nya kepada kami, dan yang pasti pekerjaan itu telah sukses serta mendapatkan hasil yang maksimal. oleh karena itu alasan mengapa anda harus memilih kami adhyastha kontraktor lapangan futsal adalah:</p>
                         <ol class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
                             <li>kami adalah mitra untuk menggapai rencana rencana dan mimpi-mimpi anda untuk berbisnis dalam bidang lapangan futsal</li>
                             <li>kami memiliki tim dengan kemampuan export atau tenaga ahli yang sudah tentu berpengalaman dalam hal jasa kontraktor pembuatan lapangan futsal</li>
@@ -34,14 +32,17 @@ deskripsi: Kami adalah perusahaan spesialis kontraktor lapangan futsal dengan pe
                             <li>tidak hanya selesai dalam hal pembuatan lapangan futsal tetapi kami juga menawarkan hal-hal yang detail rapi serta pembuatan lapangan futsal yang kreatif</li>
                             <li>dengan kreativitas yang tinggi dan export otomatis kami memberikan desain inovatif up to date dan terbaru</li>
                         </ol>
-                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
+                    <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
                             untuk itu kiranya Anda mencari kontraktor lapangan futsal di Indonesia sudah tepat Anda mengunjungi website ini dan segera hubungi kami untuk mendiskusikan seluruh keinginan anda dalam hal pembuatan lapangan futsal. Anda tidak akan hanya dapat mendapatkan hasil yang memuaskan keinginan anda tetapi pasti anda mendapatkan pelayanan yang ramah dan menyenangkan. klik tombol WhatsApp di sebelah kanan bawah layar anda segera konsultasikan mengenai bisnis lapangan futsal anda.
                         </p>
                     </div>
-                    <h2 class="mbr-title pt-2 mbr-fonts-style display-2">Memilih jasa kontraktor lapangan futsal</h2>
+                    <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
+                        Memilih jasa kontraktor lapangan futsal
+                    </h2>
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            Apabila anda menginginkan untuk mempunyai sebuah usaha dalam hal lapangan futsal. sudah barang tentu anda akan mencari kontraktor lapangan futsal, karena Anda membutuhkan jasa dalam pembuatan lapangan yang itu. lapangan futsal akan bernilai lebih dari lapangan futsal lapangan futsal lainnya apabila lapangan futsal yang Anda punyai memiliki fasilitas sebagai berikut. memiliki fasilitas yang lengkap, aman, kreatif dan menarik sudah pasti usaha lapangan futsal yang anda miliki akan sangat laris dan digemari oleh para pencinta olahraga futsal. Dalam mewujudkan hal itu tentunya Anda harus jeli dalam memilih kontraktor lapangan futsal. sebelum memilih kontraktor lapangan futsal tentu anda harus melihat profil bisnisnya dahulu. portofolio apa saja yang sudah dikerjakan atau sedang dikerjakan. selain hal yang disebut tadi ada baiknya apabila dalam memilih kontraktor lapangan futsal anda menanyakan dahulu pengalaman-pengalaman atau lembaga-lembaga yang telah dilayani oleh kontraktor lapangan tersebut. dalam hal ini anda sekarang sudah berada di tempat yang tepat.</p>
+                            Apabila anda menginginkan untuk mempunyai sebuah usaha dalam hal lapangan futsal. sudah barang tentu anda akan mencari kontraktor lapangan futsal, karena Anda membutuhkan jasa dalam pembuatan lapangan yang itu. lapangan futsal akan bernilai lebih dari lapangan futsal lapangan futsal lainnya apabila lapangan futsal yang Anda punyai memiliki fasilitas sebagai berikut. memiliki fasilitas yang lengkap, aman, kreatif dan menarik sudah pasti usaha lapangan futsal yang anda miliki akan sangat laris dan digemari oleh para pencinta olahraga futsal. Dalam mewujudkan hal itu tentunya Anda harus jeli dalam memilih kontraktor lapangan futsal. sebelum memilih kontraktor lapangan futsal tentu anda harus melihat profil bisnisnya dahulu. portofolio apa saja yang sudah dikerjakan atau sedang dikerjakan. selain hal yang disebut tadi ada baiknya apabila dalam memilih kontraktor lapangan futsal anda menanyakan dahulu pengalaman-pengalaman atau lembaga-lembaga yang telah dilayani oleh kontraktor lapangan tersebut. dalam hal ini anda sekarang sudah berada di tempat yang tepat.
+                        </p>
                     </div>
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">Kenapa harus memilih <a href="/">Adhyasta</a> kontraktor lapangan futsal</h2>
                     <div class="mbr-section-text">
@@ -50,6 +51,9 @@ deskripsi: Kami adalah perusahaan spesialis kontraktor lapangan futsal dengan pe
                         </p>
                     </div>
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">Inilah ukuran lapangan futsal standar nasional dan internasional</h2>
+                    <div class="mbr-figure m-auto" style="width: 50%;">
+                        <img src="/assets/images/kontraktor-lapangan-futsal-2.webp" alt="adhyasta kontraktor lapangan futsal" title="adhyasta kontraktor lapangan futsal">
+                    </div>
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
                             Futsal adalah permainan sepak bola yang dimainkan oleh masing-masing dua tim, tim-tim tersebut beranggotakan 5 orang pemain yang tujuannya mirip seperti permainan sepak bola yaitu memasukkan bola ke gawang lawan, dengan memanipulasi atau mengontrol bola menggunakan kaki. Dan tentu saja lapangannya mempunyai atau ukuran tersendiri. Disini kita akan membahas atau menjelaskan mengenai atau tentang ukuran lapangan futsal.
@@ -73,7 +77,6 @@ deskripsi: Kami adalah perusahaan spesialis kontraktor lapangan futsal dengan pe
                             Di atas adalah kilasan tentang olahraga futsal berikut ini adalah tentang lapangan futsal. Di Indonesia paraga futsal merupakan olahraga yang sangat populer untuk anak muda. Seperti yang kita ketahui kita akan sering menjumpai kejuaraan-kejuaraan futsal di daerah Anda. Mulai dari antar kampung sekolah makan antar universitas di seluruh wilayah Indonesia. Kepopuleran olahraga futsal tentu juga diimbangi dengan semakin berkembangnya usaha atau bisnis persewaan lapangan futsal. Untuk Anda yang menyukai olahraga ini tentu anda tidak akan sulit menemukan gedung olahraga lapangan futsal di kota Anda. Dan tentu akan ada pertanyaan dalam hati anda, sebenarnya Berapa ukuran standar lapangan futsal itu, kali ini kita akan menyajikan untuk Anda standar menurut FIFA dan AMF.
                         </p>
                     </div>
-                    <img src="/assets/images/kontraktor-lapangan-futsal.webp" alt="adhyasta kontraktor lapangan futsal" title="adhyasta kontraktor lapangan futsal">
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">Ukuran Standar Internasional Lapangan Futsal :</h2>
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
@@ -110,7 +113,12 @@ deskripsi: Kami adalah perusahaan spesialis kontraktor lapangan futsal dengan pe
                             Demikian adalah artikel tentang ukuran lapangan futsal yang sesuai dengan standar. Jika anda ingin membangun lapangan futsal, saat ini anda berada di dalam web yang tepat klik tombol WhatsApp di pojok kanan bawah web ini. Utarakan keinginan Anda dan dapatkan advice-advice dari tim kami untuk mengembangkan dan mewujudkan keinginan dalam produksi pembuatan lapangan futsal.
                         </p>
                     </div>
-                    <img src="/assets/images/kontraktor-lapangan-futsal-2.webp" alt="adhyasta kontraktor lapangan futsal" title="adhyasta kontraktor lapangan futsal">
+                    <h2 class="mbr-title pt-2 mbr-fonts-style display-2">Anda memerlukan kontraktor lapangan futsal?</h2>
+                    <div class="mbr-section-text">
+                        <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
+                            Anda berada ditempat yang tepat. Apabila anda menginginkan membangun lapangan futsal. Kami datang untuk memberikan hasil lapangan terbaik untuk anda kami memberikan perlengkapan futsal dengan harga terbaik.
+                        </p>
+                    </div>
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">Anda memerlukan kontraktor lapangan futsal?</h2>
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
@@ -137,6 +145,9 @@ deskripsi: Kami adalah perusahaan spesialis kontraktor lapangan futsal dengan pe
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+</section>
 <section class="features15 cid-rr5Cowf967" id="features15-e">
     <div class="container">
         <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
