@@ -3,7 +3,7 @@ layout: post
 title: Kontraktor Lapangan Futsal
 images: /assets/images/3-lapangan-futsal-2.jpg
 images-alt: Kontraktor Lapangan Futsal
-penulis: DNYRWA
+penulis: Denny Rakhmad Widi Ashari
 photos: /assets/images/3-lapangan-futsal-2.jpg
 deskripsi: Kami adalah perusahaan spesialis kontraktor lapangan futsal dengan pengalaman telah melayani 100 lebih konsumen dalam segala pekerjaan, baik dalam konstruksi pembuatan lapangan futsal maupun pembuatan lantai lapangan futsal. suatu keniscayaan apabila anda menyerahkan pekerjaan proyek pembuat lapangan futsal kepada kami
 ---
@@ -127,7 +127,7 @@ deskripsi: Kami adalah perusahaan spesialis kontraktor lapangan futsal dengan pe
                     </div>
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
-                            Jika Anda mencari perusahaan pelapisan lapangan tenis di Indonesia untuk memperbaiki lapangan olahraga Anda, <a href="/">Adhyasta Kontraktor</a> adalah nama yang dapat Anda andalkan untuk layanan premium untuk membuat lapangan tenis Anda tampak seperti baru. Untuk informasi lebih lanjut tentang layanan pembuatan lapangan olahraga dan pelapisan ulang kami atau untuk menjadwalkan konsultasi untuk lapangan tenis Anda, hubungi kami hari ini di <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a> <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6281335602222">Whatsapp 0813-3560-2222</a>.
+                            Jika Anda mencari perusahaan pelapisan lapangan tenis di Indonesia untuk memperbaiki lapangan olahraga Anda, <a href="/">Adhyasta Kontraktor</a> adalah nama yang dapat Anda andalkan untuk layanan premium untuk membuat lapangan tenis Anda tampak seperti baru. Untuk informasi lebih lanjut tentang layanan pembuatan lapangan olahraga dan pelapisan ulang kami atau untuk menjadwalkan konsultasi untuk lapangan tenis Anda, hubungi kami hari ini di <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a> <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6287794639225">Whatsapp 0877-9463-9225</a>.
                         </p>
                     </div>
                     <div class="mbr-section-text">
@@ -168,7 +168,7 @@ deskripsi: Kami adalah perusahaan spesialis kontraktor lapangan futsal dengan pe
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
                             <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a>
-                            <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6281335602222">Whatsapp 0813-3560-2222</a>
+                            <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6287794639225">Whatsapp 0877-9463-9225</a>
                         </p>
                     </div>
                 </div>
@@ -184,7 +184,7 @@ deskripsi: Kami adalah perusahaan spesialis kontraktor lapangan futsal dengan pe
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
                             <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a>
-                            <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6281335602222">Whatsapp 0813-3560-2222</a>
+                            <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6287794639225">Whatsapp 0877-9463-9225</a>
                         </p>
                     </div>
                 </div>
@@ -200,7 +200,7 @@ deskripsi: Kami adalah perusahaan spesialis kontraktor lapangan futsal dengan pe
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
                             <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a>
-                            <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6281335602222">Whatsapp 0813-3560-2222</a>
+                            <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6287794639225">Whatsapp 0877-9463-9225</a>
                         </p>
                     </div>
                 </div>

@@ -3,7 +3,7 @@ layout: post
 title: Kontraktor Lapangan Basket
 images: /assets/images/5-lapangan-bola-basket-1.jpg
 images-alt: Kontraktor Lapangan Basket
-penulis: DNYRWA
+penulis: Denny Rakhmad Widi Ashari
 photos: /assets/images/5-lapangan-bola-basket-1.jpg
 deskripsi: Anda ingin membuat lapangan basket, mencari Kontraktor Lapangan Basket? Adhyasta dapat mewujudkan lapangan basket yang sempurna, Ayo Segera Hubungi Kami !
 ---
@@ -83,7 +83,7 @@ deskripsi: Anda ingin membuat lapangan basket, mencari Kontraktor Lapangan Baske
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
                         <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a>
-                        <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6281335602222">Whatsapp 0813-3560-2222</a>
+                        <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6287794639225">Whatsapp 0877-9463-9225</a>
                         </p>
                     </div>
                 </div>
@@ -99,7 +99,7 @@ deskripsi: Anda ingin membuat lapangan basket, mencari Kontraktor Lapangan Baske
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
                         <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a>
-                        <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6281335602222">Whatsapp 0813-3560-2222</a>
+                        <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6287794639225">Whatsapp 0877-9463-9225</a>
                         </p>
                     </div>
                 </div>
@@ -115,7 +115,7 @@ deskripsi: Anda ingin membuat lapangan basket, mencari Kontraktor Lapangan Baske
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
                         <a class="btn btn-primary display-4" href="tel:+6281335602222">Telepon 0813-3560-2222</a>
-                        <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6281335602222">Whatsapp 0813-3560-2222</a>
+                        <a class="btn btn-primary display-4" href="https://api.whatsapp.com/send?text=Hallo%20Adhyasta.com%20(Nama)%20(Alamat)%20&amp;phone=6287794639225">Whatsapp 0877-9463-9225</a>
                         </p>
                     </div>
                 </div>
