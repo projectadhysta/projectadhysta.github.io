@@ -4,7 +4,7 @@ title: Kontraktor lanskap / kontraktor landscape
 images: /assets/images/kontraktor-lanskap-1.jpg
 images-alt: Kontraktor lanskap / kontraktor landscape
 penulis: Denny Rakhmad Widi Ashari
-photos: /assets/images/kontraktor-lanskap-2.jpg
+photos: /assets/images/kontraktor-lanskap-11.jpg
 deskripsi: Anda sedang mencari Kontraktor lanskap / kontraktor landscape, Adhyasta dapat mewujudkan Kontraktor lanskap / kontraktor landscape yang indah, Segera Hubungi Kami !
 ---
 <section class="features11 cid-rravbvzsVT" id="features11-5">
@@ -19,7 +19,7 @@ deskripsi: Anda sedang mencari Kontraktor lanskap / kontraktor landscape, Adhyas
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
                             Kontraktor lanskap / kontraktor landscape adalah sebuah pekerjaan yang berhubungan dengan perancangan dan pembangunan dari bentang alam sejauh mata memandang agar supaya dapat dibangun sesuai dengan rencana yang akan kita ingin dapatkan. 
                         </p>
-                        <img src="/assets/images/kontraktor-lanskap-6.jpg" alt="adhyasta">
+                        <img src="/assets/images/kontraktor-lanskap-6.jpg" alt="adhyasta" width="75%" height="75%">
                     </div>
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
                     Cakupan dari kontraktor lanskap / kontraktor landscape
@@ -46,7 +46,7 @@ deskripsi: Anda sedang mencari Kontraktor lanskap / kontraktor landscape, Adhyas
                     </h2>
                         <div class="mbr-section-text">
                             <div class="card-front card_cont">
-                            <img src="/assets/images/kontraktor-lanskap-7.jpg" alt="adhyasta">
+                            <img src="/assets/images/kontraktor-lanskap-7.jpg" alt="adhyasta" width="75%" height="75%">
                         </div>
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
                             Contoh-contoh pekerja yang dilakukan oleh kontraktor lanskap / kontraktor landscape adalah seperti pembuatan taman, bermain, lahan terbuka hijau, lanskap jalan, Olympic site,  Taman lingkungan, Taman Kota, waterfront, Taman sekolah, lapangan golf, taman rekreasi, wetland, pekarangan kampus, kawasan industri, kawasan bersejarah pemakaman, kebun Raya, lahan pertanian, sungai atau danau, jalan Raya, koridor jalan, penyediaan kawasan perumahan, perencanaan kota dan lain sebagainya
@@ -58,7 +58,7 @@ deskripsi: Anda sedang mencari Kontraktor lanskap / kontraktor landscape, Adhyas
                             Kontraktor lanskap / kontraktor landscape sangat erat kaitannya dengan bidang arsitektur baik interior maupun eksterior, karena hal tersebut sangat berkaitan erat dan saling berhubungan antara satu dengan yang lain, tapi yang membedakan adalah arsitektur interior itu adalah terkait pembuatan desain di dalam kalau arsitektur lanskap itu terkait dengan desain di luar beserta tanaman-tanaman yang harus di maintenance.
                         </p>
                     </div>
-                    <img src="/assets/images/kontraktor-lanskap-8.jpg" alt="adhyasta">
+                    <img src="/assets/images/kontraktor-lanskap-8.jpg" alt="adhyasta" width="75%" height="75%">
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
                     Arsitektur lanskap
                     </h2>
@@ -81,7 +81,7 @@ deskripsi: Anda sedang mencari Kontraktor lanskap / kontraktor landscape, Adhyas
                     <h2 class="mbr-title pt-2 mbr-fonts-style display-2">
                     Pra pelaksanaan
                     </h2>
-                    <img src="/assets/images/kontraktor-lanskap-9.jpg" alt="adhyasta">
+                    <img src="/assets/images/kontraktor-lanskap-9.jpg" alt="adhyasta" width="75%" height="75%">
                     <div class="mbr-section-text">
                         <p class="mbr-text mb-5 pt-3 mbr-light mbr-fonts-style display-5">
                             Dalam tahapan pra pelaksanaan kontraktor lanskap / kontraktor landscape bekerja dengan 6 tahapan yaitu 
@@ -206,7 +206,7 @@ deskripsi: Anda sedang mencari Kontraktor lanskap / kontraktor landscape, Adhyas
             <div class="col-12 col-md-6 mb-4 col-lg-4">
                 <div class="card flip-card p-5 align-center">
                     <div class="card-front card_cont">
-                        <img src="/assets/images/kontraktor-lanskap-3.jpg" alt="adhyasta">
+                        <img src="/assets/images/kontraktor-lanskap-3.jpg" alt="adhyasta" width="75%" height="75%">
                     </div>
                     <div class="card_back card_cont">
                         <h4 class="card-title display-5 py-2 mbr-fonts-style">
@@ -222,7 +222,7 @@ deskripsi: Anda sedang mencari Kontraktor lanskap / kontraktor landscape, Adhyas
             <div class="col-12 col-md-6 mb-4 col-lg-4">
                 <div class="card flip-card p-5 align-center">
                     <div class="card-front card_cont">
-                        <img src="/assets/images/kontraktor-lanskap-4.jpg" alt="adhyasta">
+                        <img src="/assets/images/kontraktor-lanskap-4.jpg" alt="adhyasta" width="75%" height="75%">
                     </div>
                     <div class="card_back card_cont">
                         <h4 class="card-title py-2 mbr-fonts-style display-5">
@@ -238,7 +238,7 @@ deskripsi: Anda sedang mencari Kontraktor lanskap / kontraktor landscape, Adhyas
             <div class="col-12 col-md-6 mb-4 col-lg-4">
                 <div class="card flip-card p-5 align-center">
                     <div class="card-front card_cont">
-                        <img src="/assets/images/kontraktor-lanskap-5.jpg" alt="adhyasta">
+                        <img src="/assets/images/kontraktor-lanskap-5.jpg" alt="adhyasta" width="75%" height="75%">
                     </div>
                     <div class="card_back card_cont">
                         <h4 class="card-title py-2 mbr-fonts-style display-5">
