@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Kontraktor Batu Koral Sikat Garasi Adhyasta yang Profesional dan Terpercaya
-images: /assets/images/batu-koral-sikat5.jpg
+images: /assets/images/batu-koral-sikat.jpg
 images-alt: Kontraktor Batu Koral Sikat Garasi Adhyasta yang Profesional dan Terpercaya
 penulis: Denny Rakhmad Widi Ashari
-photos: /assets/images/batu-koral-sikat5.jpg
+photos: /assets/images/batu-koral-sikat.jpg
 deskripsi: Anda sedang mencari Kontraktor Batu Koral Sikat Garasi Adhyasta yang Profesional dan Terpercaya, Adhyasta dapat mewujudkan lapangan tenis yang indah, Segera Hubungi Kami !
 ---
 
@@ -201,7 +201,7 @@ deskripsi: Anda sedang mencari Kontraktor Batu Koral Sikat Garasi Adhyasta yang 
             <div class="col-12 col-md-6 mb-4 col-lg-4">
                 <div class="card flip-card p-5 align-center">
                     <div class="card-front card_cont">
-                        <img src="/assets/images/fbatu-koral-sikat3.jpg" alt="adhyasta">
+                        <img src="/assets/images/batu-koral-sikat3.jpg" alt="adhyasta">
                     </div>
                     <div class="card_back card_cont">
                         <h4 class="card-title py-2 mbr-fonts-style display-5">
