@@ -5,7 +5,7 @@ images: /assets/images/5-lapangan-bola-basket-5.jpg
 images-alt: Jasa Pembuatan Lapangan Basket
 penulis: Denny Rakhmad Widi Ashari
 photos: /assets/images/5-lapangan-bola-basket-5.jpg
-deskripsi: Kami adalah perusahaan spesialis kontraktor lapangan basket dengan pengalaman telah melayani 100 lebih konsumen dalam segala pekerjaan, baik dalam konstruksi pembuatan lapangan basket maupun pembuatan lantai lapangan basket. suatu keniscayaan apabila anda menyerahkan pekerjaan proyek pembuat lapangan basket kepada kami
+deskripsi: Kami adalah perusahaan spesialis kontraktor lapangan basket, baik dalam konstruksi pembuatan lapangan basket maupun pembuatan lantai lapangan basket.
 ---
 <section class="features11 cid-rravbvzsVT" id="features11-5">
     <div class="container">

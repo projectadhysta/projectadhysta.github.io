@@ -5,7 +5,7 @@ images: /assets/images/8-lapangan-tenis-4.jpg
 images-alt: jasa pembuatan lapangan tenis
 penulis: Denny Rakhmad Widi Ashari
 photos: /assets/images/8-lapangan-tenis-4.jpg
-deskripsi: Kami adalah perusahaan spesialis kontraktor lapangan tenis dengan pengalaman telah melayani 100 lebih konsumen dalam segala pekerjaan, baik dalam konstruksi pembuatan lapangan tenis maupun pembuatan lantai lapangan tenis. suatu keniscayaan apabila anda menyerahkan pekerjaan proyek pembuat lapangan tenis kepada kami
+deskripsi: Perusahaan spesialis kontraktor lapangan tenis dengan pengalaman 99 persen konsumen puas, saatnya giliran Anda
 ---
 <section class="features11 cid-rravbvzsVT" id="features11-5">
     <div class="container">
